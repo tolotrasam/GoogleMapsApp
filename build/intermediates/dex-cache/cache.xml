@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_fd8930c9a6f577950983e884232213f542149c28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_b50194434da64a6f65bd78e3a7e16fea3966afb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_76e3051f0d905d0ee6c5a342aa2c832c8da55414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6329270449df2b6e20e71a4e66765f8bd8d62a36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_e37743745141615ce8a4f3db962af98e35f716a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_21d8f8c2d2107f62eabdd2af57f2ac4bf6776ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.android\build-cache\86817979c2d294c903196497d06b575ccd23ed9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97700f77a08dc8c4c8c12370b742db85fc008b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c781afd78594dc914bf159cc69b866ff0bdbe0">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9b1d9268fb54dff7d5358b140082ceff8bf1f041\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tolotra Samuel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\GoogleMapsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_96f00f3b45c732bad9da3dafc7b94c6936d5ec24\classes.dex" />
+    </item>
+
+</items>
